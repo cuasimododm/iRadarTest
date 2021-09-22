@@ -13,6 +13,43 @@
         "drill_time":1,
         "pipe_m_time":3
       }
+    },
+    "c_time":256310,
+    "c_cost":1254,
+    "d_fields":{
+        "dmea":154,
+        "dbtm":14,
+        "drtm":215
+    },
+    "loss":{
+        "tva":478,
+        "tval":1478,
+        "rate":89,
+        "total":251
+    },
+    "influx":{
+        "tva":278,
+        "tval":1273,
+        "rate":42,
+        "total":115
+    },
+    "tight":{
+        "sppa":10,
+        "tqa":25,
+        "rpma":34,
+        "mfia":78
+    },
+    "pipe_move":{
+        "speed":65,
+        "drag":34,
+        "woba":10,
+        "time":3548
+    },
+    "optimization":{
+        "mse":159,
+        "hmse":542,
+        "ropa":354,
+        "cost":1548
     }
   }
 }
