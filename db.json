@@ -1,0 +1,12 @@
+{
+radar:{
+    section_x:{
+      afe:{
+        ropa:25,
+        ft:12,
+        drill_time:2,
+        pipe_m_time:5
+      }
+    }
+  }
+}
